@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Users\aaron\OneDrive\Documents\Cluster Tool\cluster-tool\CEPACClusterLibGui.py", line 512, in on_refresh
+    for index, entry in enumerate(self.cluster.get_run_folders()):
+  File "C:\Users\aaron\OneDrive\Documents\Cluster Tool\cluster-tool\CEPACClusterLib.py", line 643, in get_run_folders
+    for index, entry in run_folders_long:
+ValueError: too many values to unpack (expected 2)
+
+Login may have been invalid. 

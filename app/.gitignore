@@ -1,0 +1,10 @@
+# Taige version control / ide files
+.idea/**
+.svn/**
+# py2exe nonesense
+build/**
+dist/**
+**.dll
+# Python
+**.pyc
+**/__pycache__/**
